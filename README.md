@@ -12,7 +12,15 @@ WhaleSight relies on public Polygon network data and Polymarket's open API to in
 
 No tracking: We do not track your personal bets or wallet addresses.
 
-No wallet connection required: The extension reads public data; it never asks for your private keys or seed phrases.
+## Installation (Developer Mode)
+
+Currently, WhaleSight is in open beta and You can install it locally by building from the source:
+
+1. **Download the Extension:** Click on the green `Code` button at the top of this repository and select **Download ZIP** (or use the link provided by the WhaleSight bot (https://t.me/whilesight_bot).
+2. **Extract the Files:** Unzip/Extract the downloaded `.zip` file into a new folder on your computer.
+3. **Open Extension Settings:** Open Chrome or Brave and type `chrome://extensions/` (or `brave://extensions/`) into your address bar and press Enter.
+4. **Enable Developer Mode:** Turn on the **Developer mode** toggle switch located in the top right corner of the extensions page.
+5. **Load the Extension:** Click the **Load unpacked** button that appears in the top left, and select the folder you extracted in Step 2.
 
 ⚠️ Disclaimer
 Not Financial Advice. WhaleSight is an analytical tool built for educational and informational purposes only. Prediction markets are highly volatile. Always do your own research (DYOR) before placing any trades. The maintainers of this project are not responsible for any financial losses.
